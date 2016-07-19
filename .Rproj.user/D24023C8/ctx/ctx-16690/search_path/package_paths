@@ -1,0 +1,7 @@
+datasets="/Library/Frameworks/R.framework/Versions/3.2/Resources/library/datasets"
+grDevices="/Library/Frameworks/R.framework/Versions/3.2/Resources/library/grDevices"
+graphics="/Library/Frameworks/R.framework/Versions/3.2/Resources/library/graphics"
+methods="/Library/Frameworks/R.framework/Versions/3.2/Resources/library/methods"
+stats="/Library/Frameworks/R.framework/Versions/3.2/Resources/library/stats"
+studentDataAnalysis="/Library/Frameworks/R.framework/Versions/3.2/Resources/library/studentDataAnalysis"
+utils="/Library/Frameworks/R.framework/Versions/3.2/Resources/library/utils"
